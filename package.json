@@ -1,0 +1,10 @@
+{
+  "name": "tone-controller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "detect-pitch": "^1.1.0",
+    "terminal-kit": "^1.11.1"
+  },
+  "devDependencies": {},
+}
